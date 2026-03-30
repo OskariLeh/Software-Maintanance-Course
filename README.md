@@ -1,3 +1,6 @@
+### YouTube Demo Link
+https://www.youtube.com/watch?v=FC896zGv4XI
+
 # Inventory-Management-System
 Inventory Management System is a python based project that uses `tkinter` modules for Graphical User Interface(GUI)
 
